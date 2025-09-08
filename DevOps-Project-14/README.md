@@ -23,22 +23,4 @@ Check out the complete **blog tutorial with screenshots** here:
 
 ---
 
-## 🛠️ Author & Credits  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Let me know what you think.  
-
-📧 **Connect with me**:  
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-
-### ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
----
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)  
